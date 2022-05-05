@@ -3,3 +3,4 @@ Add to new branch
 Add some words
 Merge me
 Try to conflict
+Try to be one line
